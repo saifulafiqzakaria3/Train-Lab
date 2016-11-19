@@ -1,6 +1,6 @@
 %Code for Train Lab
 fprintf ('Group:Q Minh, Kevin, Wan, Jake.')
-fprintf('Hadri Power Gila\n')
+fprintf('\nHadri Power Gila\n')
 fprintf ('Engineering 1181 1:50-2:45 Schrock')
 %Clear out and delete previous setups and variables
 delete(timerfindall);
